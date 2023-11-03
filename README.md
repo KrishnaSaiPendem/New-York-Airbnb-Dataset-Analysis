@@ -1,4 +1,4 @@
-# New-York-Airbnb-Dataset-Analysis
+# New-York-Airbnb-Dataset-Predictive-Analysis
 
 INTRODUCTION :- 
 This dataset can be a valuable resource for various types of analysis, such as identifying trends in the Airbnb market in New York City, understanding the factors that influence pricing and demand, and examining the impact of Airbnb on the local housing market. To answer some research questions related to this dataset, we performed data cleaning, exploratory data analysis, and built predictive models using various machine learning techniques.
